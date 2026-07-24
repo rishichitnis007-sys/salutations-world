@@ -16,6 +16,7 @@
 | [🌐 Go](/Go) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Go/courses.md) | [ℹ️ Add one!](/Go/resources.md) | 
 | [🌐 Fastapi](/Fastapi) |✅ Done! | [ℹ️ Add one!](/Fastapi/books.md) | ✅ Done! | [ℹ️ Add one!](/Fastapi/resources.md) | 
 | [🌐 Emberjs](/Emberjs) |✅ Done! | [ℹ️ Add one!](/Emberjs/books.md) | ✅ Done! | [ℹ️ Add one!](/Emberjs/resources.md) | 
+| [🌐 Dart](/Dart) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 C](/C) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/C/courses.md) | [ℹ️ Add one!](/C/resources.md) | 
 | [🌐 Arduino](/Arduino) |✅ Done! | ✅ Done! | [ℹ️ Add one!](/Arduino/courses.md) | [ℹ️ Add one!](/Arduino/resources.md) | 
 | [🌐 فردوسی](/فردوسی) |✅ Done! | [ℹ️ Add one!](/فردوسی/books.md) | [ℹ️ Add one!](/فردوسی/courses.md) | [ℹ️ Add one!](/فردوسی/resources.md) | 
@@ -59,7 +60,6 @@
 | [🌐 Django](/Django) |✅ Done! | [ℹ️ Add one!](/Django/books.md) | [ℹ️ Add one!](/Django/courses.md) | [ℹ️ Add one!](/Django/resources.md) | 
 | [🌐 Deno](/Deno) |✅ Done! | [ℹ️ Add one!](/Deno/books.md) | [ℹ️ Add one!](/Deno/courses.md) | [ℹ️ Add one!](/Deno/resources.md) | 
 | [🌐 Delphi](/Delphi) |✅ Done! | [ℹ️ Add one!](/Delphi/books.md) | [ℹ️ Add one!](/Delphi/courses.md) | [ℹ️ Add one!](/Delphi/resources.md) | 
-| [🌐 Dart](/Dart) |✅ Done! | [ℹ️ Add one!](/Dart/books.md) | [ℹ️ Add one!](/Dart/courses.md) | [ℹ️ Add one!](/Dart/resources.md) | 
 | [🌐 Curl](/Curl) |✅ Done! | [ℹ️ Add one!](/Curl/books.md) | [ℹ️ Add one!](/Curl/courses.md) | [ℹ️ Add one!](/Curl/resources.md) | 
 | [🌐 Css](/Css) |✅ Done! | [ℹ️ Add one!](/Css/books.md) | [ℹ️ Add one!](/Css/courses.md) | [ℹ️ Add one!](/Css/resources.md) | 
 | [🌐 Crystal](/Crystal) |✅ Done! | [ℹ️ Add one!](/Crystal/books.md) | [ℹ️ Add one!](/Crystal/courses.md) | [ℹ️ Add one!](/Crystal/resources.md) | 
